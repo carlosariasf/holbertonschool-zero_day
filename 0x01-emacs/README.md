@@ -1,0 +1,1 @@
+This folder was made to complete the task proposed by Holberto School in the Emacs task.
